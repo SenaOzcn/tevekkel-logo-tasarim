@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 100"
+     width="900" height="300" role="img">
+  <title>Tevekkel Yedek Parça logosu — Jant / Lastik</title>
+  <desc>Lastik halkasının içindeki sarı zeminde T harfi durur. Tekerlek yolu ve hareketi, sarı ise görünürlüğü ve güvenliği simgeler. Lastik ürün grubuna da doğrudan gönderme yapar.</desc>
+  <rect width="300" height="100" fill="#FFFFFF"/>
+  <g transform="translate(10 10) scale(1.3333)">
+    
+            <circle cx="30" cy="30" r="26" fill="none" stroke="#111827" stroke-width="6"/>
+            <circle cx="30" cy="30" r="22.5" fill="#FACC15"/>
+            <rect x="15" y="19" width="30" height="8" fill="#111827"/>
+            <rect x="26" y="27" width="8" height="18" fill="#111827"/>
+        
+  </g>
+  <text x="104" y="53" font-family="Helvetica-Bold"
+        font-size="30" letter-spacing="1" fill="#111827">TEVEKKEL</text>
+  <text x="105" y="76" font-family="Helvetica-Bold"
+        font-size="12" letter-spacing="5" fill="#111827">YEDEK PARÇA</text>
+</svg>

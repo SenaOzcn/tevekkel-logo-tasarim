@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 100"
+     width="900" height="300" role="img">
+  <title>Tevekkel Yedek Parça logosu — Piston</title>
+  <desc>Piston başı T'nin çatısı, biyel kolu gövdesi oldu. Motoru, gücü ve mekanik ustalığı çağrıştırır. Turuncu segman bantları enerjiyi ve sıcaklığı temsil eder.</desc>
+  <rect width="300" height="100" fill="#FFFFFF"/>
+  <g transform="translate(10 10) scale(1.3333)">
+    
+            <g fill="#1F2933">
+                <path d="M8 10Q8 6 12 6H48Q52 6 52 10V24H8Z"/>
+                <polygon points="14,24 46,24 35,34 25,34"/>
+                <rect x="25" y="34" width="10" height="10"/>
+                <path fill-rule="evenodd"
+                      d="M24 50a6 6 0 1 0 12 0a6 6 0 1 0 -12 0Z
+                         M27.6 50a2.4 2.4 0 1 0 4.8 0a2.4 2.4 0 1 0 -4.8 0Z"/>
+            </g>
+            <g fill="#E8590C">
+                <rect x="8" y="9" width="44" height="4"/>
+                <rect x="8" y="16" width="44" height="4"/>
+            </g>
+        
+  </g>
+  <text x="104" y="53" font-family="Helvetica-Bold"
+        font-size="30" letter-spacing="1" fill="#1F2933">TEVEKKEL</text>
+  <text x="105" y="76" font-family="Helvetica-Bold"
+        font-size="12" letter-spacing="5" fill="#1F2933">YEDEK PARÇA</text>
+</svg>
